@@ -1,1 +1,3 @@
 'Consola'
+'Arial'
+'Fixedsys Excelsior'
